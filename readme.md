@@ -1,5 +1,3 @@
-Basándome en tu README actual y la información de tu CV y perfil profesional, aquí tienes una versión adaptada que integra tu experiencia laboral y formación académica, manteniendo el estilo técnico y minimalista:
-
 ---
 
 <h1 align="center">
